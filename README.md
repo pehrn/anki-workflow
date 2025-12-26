@@ -1,6 +1,6 @@
 # Anki workflow automation
 
-[Little bit about](https://www.peterhrncirik.com/blog/automating-my-anki-workflow/)
+[Little bit about](https://petersnotes.com/posts/automating-my-anki-workflow/)
 
 Helps me creating cards faster.
 
